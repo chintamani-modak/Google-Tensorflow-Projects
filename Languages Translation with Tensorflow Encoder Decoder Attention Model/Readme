@@ -1,0 +1,4 @@
+Language translation is not just a challenge; it's an intricate expedition through the vast expanse of linguistic intricacies, navigated by the sophisticated interplay of encoders and decoders. Powered by the cutting-edge capabilities of Artificial Intelligence (AI) and the precision of Google TensorFlow, coupled with the advanced Encoder-Decoder attention mechanism, 
+we venture into this complex maze.
+Here in this project we studied a complex deep learning application for neural machine translation also known as NMT.
+Here we implemented an NMT model for English to Spanish Translation.
